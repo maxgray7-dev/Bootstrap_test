@@ -69,6 +69,9 @@ position: relative; /* removes opaque from  nav bar on top*/
    margin-top: 0; 
 }
 
+.quotes .page-header {
+   margin-bottom: 25px; 
+}
 
 
 /* Block dividers */
@@ -186,4 +189,14 @@ position: relative; /* removes opaque from  nav bar on top*/
     margin-bottom:20px;
     font-size: 45px;
     line-height:45px;
+}
+
+.feature .btn {
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+    color:#f05f40;
 }
